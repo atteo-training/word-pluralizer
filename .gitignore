@@ -1,0 +1,24 @@
+# Pliki globalnie
+*.pdb
+*.suo
+*.user
+*.vspscc
+*.vssscc
+*.xsd.cs
+UpgradeLog*.htm
+package-lock.json
+debug.log
+*npm-debug.log.*
+
+# Katalogi globalnie
+.vs/
+bin/
+!**/js-builder/bin/
+obj/
+Debug/
+Release/
+MSBuild.CompiledAppCode/
+TestResults/
+Logs/
+.idea/
+node_modules/
